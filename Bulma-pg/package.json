@@ -1,0 +1,21 @@
+{
+  "name": "Bulma-pg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "bulma-start": "0.0.2",
+    "node-sass": "^4.9.3"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "description": ""
+}
